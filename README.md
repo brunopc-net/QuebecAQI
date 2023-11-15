@@ -1,2 +1,2 @@
 # QuebecAQI
-Display live air quality of principals cities in Quebec
+Display live air quality of places of interest in Quebec
